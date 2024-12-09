@@ -87,3 +87,6 @@ env/
 # Others
 *.DS_Store
 Thumbs.db
+
+#custom folder
+Flowers/
